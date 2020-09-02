@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Nikita
-#### I am Software Engineer
+#### I am Software Developer/DevOps CI/CD Engineer
 
 My main direction of development is backend, as well as machine learning (mainly computer vision tasks) and automated systems with a DevOps methodology approach. I also write articles. :)
 
-Skills: ML/DL/CV, Python(WEB & Data Science lib/framework), Cloud solution (GCP/AWS) and etc. 
+Skills: ML/DL/CV, Python #3776AB (WEB & Data Science lib/framework), Google cloud platform (GCP) #4285F4 and etc DevOps tools #2496ED #4EAA25
 
 - 🌱 I’m currently learning distributed systems development (TFTDS) 
 - 👯 I’m looking to collaborate on https://github.com/ITTalks 
