@@ -17,5 +17,5 @@ I also write articles. :books:
 
 ### My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JesterI3D&show_icons=true)  
-![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=JesterI3D&layout=compact)](https://github.com/JesterI3D/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=JesterI3D&layout=compact)](https://github.com/JesterI3D/github-readme-stats)
 
