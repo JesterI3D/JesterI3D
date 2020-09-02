@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Nikita
 #### I am Software Engineer
-![I am Software Engineer]
 
 My main direction of development is backend, as well as machine learning (mainly computer vision tasks) and automated systems with a DevOps methodology approach. I also write articles. :)
 
