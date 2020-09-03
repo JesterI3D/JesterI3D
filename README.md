@@ -12,12 +12,9 @@
 
 ### Subscribe me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
-(https://github.com/JesterI3D)  
-[<img src='https://image.flaticon.com/icons/png/512/25/25684.png' alt='VK' height='40'>]
-(https://vk.com/jens1959)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>]
-(https://www.instagram.com/strawberry_miles/?hl=ru/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JesterI3D)  
+[<img src='https://image.flaticon.com/icons/png/512/25/25684.png' alt='VK' height='40'>](https://vk.com/jens1959)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/strawberry_miles/?hl=ru/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://ru.stackoverflow.com/users/310714/jesteri3d) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tver.hh.ru/resume/1d6091d4ff079171cd0039ed1f4553706e4f77)
 
