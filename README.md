@@ -1,4 +1,3 @@
-## "То, что я не могу создать - я не понимаю" - Ричард Фейнман (с)
 ## "What I cannot create - I cannot understand" - Richard Feynman (c)
 
 #### I am Software Developer/DevOps CI/CD Engineer
